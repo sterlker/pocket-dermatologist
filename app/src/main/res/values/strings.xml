@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FYP CSP650</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="btnLogin">Login</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="signUpText">New Here? Sign Up</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="launch_gallery">Launch Gallery</string>
+    <string name="open">Open Navigation</string>
+    <string name="close">Close Navigation</string>
+</resources>

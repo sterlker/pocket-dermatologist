@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/main"
+            android:title="Main Page"
+            android:icon="@drawable/ic_home"/>
+        <item
+            android:id="@+id/SD_List"
+            android:title="Skin Disease List"
+            android:icon="@drawable/ic_list" />
+        <item
+            android:id="@+id/User_List"
+            android:title="User List"
+            android:icon="@drawable/ic_username"/>
+        <item
+            android:id="@+id/Logout"
+            android:title="Logout" />
+    </group>
+
+</menu>

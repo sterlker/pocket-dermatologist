@@ -2,5 +2,5 @@
 package com.example.adminapp;
 
 public class Config {
-    public static final String BASE_URL = "http://192.168.0.5/SkinDiseaseDB/";
+    public static final String BASE_URL = "http://IP/SkinDiseaseDB/";
 }
